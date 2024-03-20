@@ -1,0 +1,27 @@
+extends layout.pug
+
+block content
+  .row.justify-content-center
+    .col-md-6
+      h1 Agent Informations
+      p Please provide the name of the IDF agent to retrieve their role
+      form(method="get", class=" justify-content-center")
+        .form-group
+          input(type="text", name="username", class="form-control" placeholder="Enter username")
+        button(type="submit", id="login_submit", class="btn btn-primary ml-2") Search
+
+  .row.justify-content-center
+    .col-md-6
+      table.table
+        thead
+          tr
+            th(scope="col") ID
+            th(scope="col") Username
+            th(scope="col") Role
+        tbody
+          - if (users !== undefined) 
+            - for (var i=0; i < users.length; i++)
+              tr
+                td #{users[i]._id}
+                td #{users[i].username}
+                td #{users[i].role}
