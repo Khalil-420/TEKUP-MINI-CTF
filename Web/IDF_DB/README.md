@@ -16,11 +16,11 @@ what do you know about NoSQL injection ?
 https://portswigger.net/web-security/nosql-injection
 
 ## Requirements
-- [dockercompose](./docker-compose.yml)
+- [dockercompose](./challenge/docker-compose.yml)
 
 ## Sources
 Private Sources
-[challenge](./app)
+[challenge](./challenge/app)
 
 ## Solver
 - [Solver](./IDF_DB_solution.pdf)
