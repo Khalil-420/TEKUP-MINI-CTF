@@ -1,6 +1,6 @@
 # Hiding
 
-Author: Omar
+Author: sn0wm4n0d
 
 ## Description
 Sana Al-Farra is one of the many children who were killed in 'gaza', help her and other children send a message to world!!!
