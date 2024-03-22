@@ -4,7 +4,7 @@ Author: KirraTN
 
 ## Description
 
-The Mossad is using a cryptography algorithm that they claim is secure. The Resistance intercepted a message but couldn’t decrypt it. Could you help the Resistance decrypt the message?
+The Mossad is using a cryptography algorithm that they claim is secure. The Resistance intercepted a message but couldn't decrypt it. Could you help the Resistance decrypt the message?
 
 VIVA PALESTINA!
 
