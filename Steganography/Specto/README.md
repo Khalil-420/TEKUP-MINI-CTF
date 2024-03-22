@@ -1,6 +1,6 @@
 # My WAV
 
-Author: Omar
+Author: sn0wm4n0d
 
 ## Description
 I received a message from someone in Gaza under the bombings, but I couldn't understand anything, could you help me?
