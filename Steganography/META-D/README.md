@@ -1,6 +1,6 @@
 # META-D
 
-Author: Omar
+Author: sn0wm4n0d
 
 ## Description
 Wael Al Dahdouh wants to send information about how many children were killed in Gaza until today.
