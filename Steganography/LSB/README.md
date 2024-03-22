@@ -1,6 +1,6 @@
 # LSB
 
-Author: Omar
+Author: sn0wm4n0d
 
 ## Description
 Help the people of Gaza send a message to the world.
