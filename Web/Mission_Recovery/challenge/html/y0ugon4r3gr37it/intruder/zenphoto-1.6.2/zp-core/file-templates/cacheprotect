@@ -1,0 +1,5 @@
+# block WEB access to Zenphoto cache files
+<IfModule mod_autoindex.c>
+	IndexIgnore *
+</IfModule>
+Deny from all

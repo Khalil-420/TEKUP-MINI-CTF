@@ -1,0 +1,9 @@
+KhtncrYxhzdwtQ8
+
+You really thought that I'll give you the last part that easy?
+I've coded the last piece n times, you need to figure out how many times i did (figure out n) and the algorithm used,
+
+I hope you have a good Base in cryptography! 
+
+
++ Bonus: Gather the 4 pieces of the key and head to /bonus.

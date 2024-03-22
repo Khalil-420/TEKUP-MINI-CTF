@@ -1,0 +1,74 @@
+.smallbox{
+	border: 1px solid #ccc;
+	width: 50em;
+	padding:1em 1em 1em 1em;
+}
+.smallbox ul {
+	padding: 0.2em;
+}
+.schedulealbumchecklist li {
+	background: none;
+	padding-left: 0;
+	text-align: left;
+}
+.schedulealbumchecklist {
+	border: 1px solid #ccc;
+	list-style: none;
+	height: 20em;
+	overflow: auto;
+	width: 50em;
+	background-color: white;
+}
+.schedulealbumchecklist,.schedulealbumchecklist li {
+	margin: 0;
+	padding: 0;
+}
+.schedulealbumchecklist label {
+	padding: 0 0.2em 0 5px;
+}
+* html .schedulealbumchecklist label {
+	height: 1%;
+}
+.schedulealbumchecklist li {
+	background: none;
+	padding-left: 0;
+	text-align: left;
+}
+.scheduleimagechecklist {
+	border: 1px solid #ccc;
+	list-style: none;
+	height: 40em;
+	overflow: auto;
+	width: 50em;
+	background-color: white;
+}
+.scheduleimagechecklist,.scheduleimagechecklist li {
+	margin: 0;
+	padding: 0;
+}
+.scheduleimagelist{
+	list-style: none;
+	margin: 0 6px 0 -30px;
+}
+
+.scheduleimagelist li{
+	border-bottom: 1px solid darkgray;
+}
+.scheduleimagelist table td{
+vertical-align: top;
+}
+.scheduleimagechecklist label {
+	display: block;
+	padding: 0 0.2em 0 25px;
+	text-indent: -25px;
+}
+.scheduleimagechecklisthead{
+	margin-top: 5px;
+	padding-left: 2em;
+	margin-botton:0;
+	background: #777;
+	color: #fff;
+}
+* html .scheduleimagechecklist label {
+	height: 1%;
+}

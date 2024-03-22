@@ -1,0 +1,3 @@
+User-agent: * 
+
+Disallow: /h3ll0in7rud3r
