@@ -9,7 +9,7 @@ We were told that the superhero who's going to save us is located in Okinawa
 We know that his symbol is printed on the roof at his place near the airport
 
 Can you find his name and his exact location
-flag format : Securinets{NAMES_xx.xxx_xxx.xxx}
+flag format : Securinets{NAME_xx.xxx_xxx.xxx}
 
 ## Sources
 -
