@@ -19,7 +19,7 @@ Source code is private, and should only be shared under authorization.
 
 ## Solver
 
-- [Solver](./Walkthrough.pdf)
+- [Solver](./Mission%20Recovery%20Walkthrough.pdf)
 
 ## Flag
 - Securinets{l0s7_inT0_7h3_4by5}
