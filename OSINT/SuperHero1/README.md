@@ -1,4 +1,4 @@
-# Challenge Super Hero 1
+# Super Hero 1
 
 Author: glitch
 
